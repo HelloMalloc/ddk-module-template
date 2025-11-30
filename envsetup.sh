@@ -1,6 +1,6 @@
 export DDK_ROOT=/opt/ddk
 
-export KDIR=$DDK_ROOT/kdir/android12-5.10
+export KDIR=$DDK_ROOT/kdir/android14-6.1
 export CLANG_PATH=$DDK_ROOT/clang/clang-r416183b/bin
 
 # export KERNEL_SRC=$DDK_ROOT/kdir/android13-5.15
